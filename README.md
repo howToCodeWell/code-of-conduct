@@ -18,7 +18,7 @@ Please report any issues to the moderators.
 - Trolling, insulting and derogatory comments
 - Public and private harassment
 - Publishing others private information
-- Patronising and harmful language
+- Patronizing and harmful language
 - Overuse of self promotion without other community input  
 - Unwelcoming actions and comments towards beginner developers
 
