@@ -4,7 +4,7 @@ date: "2019-12-16"
 ---
 # How To Code Well Code Of Conduct
 
-The goal of How To Code Well is to build an opena and welcoming environment, open to all levels of knowledge and skills.
+The goal of How To Code Well is to build an open and welcoming environment, open to all levels of knowledge and skills.
 
 To prevent any unacceptable behaviour we ask our community member to follow this simple code of conduct.
 
