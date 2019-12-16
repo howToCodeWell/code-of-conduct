@@ -31,9 +31,14 @@ ul{
 ul li:before{
     height:10px;
     width:10px;
-    padding-right:10px;
-    content: ' </>';
+    padding-right:5px;
     font-weight: 900;
     color:red;
+}
 
+.blog-post-content ul li:before{
+    content: '🚫 ';
+}
+.blog-post-content ul:first-of-type li:before{
+    content: '✅ ';
 }

@@ -35,7 +35,7 @@ const Layout = ({ children }) => {
                 }}
             >
                 <main>{children}</main>
-                <footer className="flex justify-between">
+                <footer className="flex justify-between mt-8">
                     <div  className="mr-2">
                         <a href="https://github.com/howToCodeWell/code-of-conduct" target={'_blank'} rel="noopener noreferrer">Edit</a>
                     </div>
