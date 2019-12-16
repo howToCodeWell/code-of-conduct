@@ -1,2 +1,11 @@
-# code-of-conduct
-This is the How To Code Well Code Code Of Conduct
+---
+path: "/"
+date: "2019-12-16"
+---
+# How To Code Well Code Of Conduct
+
+## Discord
+
+## Twitch
+
+## YouTube

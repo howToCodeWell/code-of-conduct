@@ -10,7 +10,6 @@ export default function Template({
       <Layout>
     <div className="documentation-container">
       <div className="documentation">
-        <h1>{frontmatter.title}</h1>
         <div
           className="documentation-content"
           dangerouslySetInnerHTML={{ __html: html }}
@@ -26,7 +25,6 @@ export const pageQuery = graphql`
       html
       frontmatter {
         path
-        title
       }
     }
   }
