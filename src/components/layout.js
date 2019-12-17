@@ -25,7 +25,7 @@ const Layout = ({children}) => {
     return (
         <>
             <HeaderMenu/>
-            <div className={'mr-auto ml-auto w-1/2 sm:w-auto md:w-full lg:w-32 xl:w-3/4 '}>
+            <div className="container mx-auto px-4">
                 <main>{children}</main>
                 <footer className="text-right">
 
