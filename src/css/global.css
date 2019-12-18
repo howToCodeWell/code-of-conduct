@@ -42,3 +42,12 @@ ul li:before{
 .blog-post-content ul:first-of-type li:before{
     content: '✅ ';
 }
+header.bg{
+    background-color: theme('colors.howtocodewell');
+}
+header a:hover{
+    color:hotpink;
+}
+.text-white{
+    color:#FFF;
+}
