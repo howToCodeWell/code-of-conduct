@@ -27,7 +27,7 @@ const Layout = ({children}) => {
             <HeaderMenu/>
             <div className="container mx-auto px-4">
                 <main>{children}</main>
-                <footer className="flex justify-between">
+                <footer className="flex justify-between border-solid border-t-2 mt-8 pt-4 border-gray-400">
                     <div className="mr-2">
                         <a href="https://github.com/howToCodeWell/code-of-conduct" target={'_blank'}
                            rel="noopener noreferrer">Edit</a>
