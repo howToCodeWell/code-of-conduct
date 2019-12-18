@@ -27,11 +27,14 @@ const Layout = ({children}) => {
             <HeaderMenu/>
             <div className="container mx-auto px-4">
                 <main>{children}</main>
-                <footer className="text-right">
-
-                    <a href="https://howtocodewell.net">How To Code Well</a>
-                    {` `}
-                    {new Date().getFullYear()}
+                <footer className="flex justify-between">
+                    <div className="mr-2">
+                        <a href="https://github.com/howToCodeWell/code-of-conduct" target={'_blank'}
+                           rel="noopener noreferrer">Edit</a>
+                    </div>
+                    <div className="m2">
+                        <a href="https://howtocodewell.net">How To Code Well</a>
+                    </div>
                 </footer>
             </div>
         </>
