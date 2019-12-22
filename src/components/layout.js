@@ -25,7 +25,7 @@ const Layout = ({children}) => {
 
     return (
         <>
-            <div class='page-container'>
+            <div className='page-container'>
                 <HeaderMenu/>
                 <div className="main-container container mx-auto px-4">
                     <main>{children}</main>
