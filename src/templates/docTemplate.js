@@ -9,7 +9,7 @@ export default function Template({
   return (
       <Layout>
     <div className="documentation-container">
-      <div className="documentation">
+      <div className="documentation test">
         <div
           className="documentation-content"
           dangerouslySetInnerHTML={{ __html: html }}

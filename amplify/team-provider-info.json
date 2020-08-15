@@ -1,0 +1,23 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-codeofconduct-dev-112149-authRole",
+            "UnauthRoleArn": "arn:aws:iam::015793386045:role/amplify-codeofconduct-dev-112149-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::015793386045:role/amplify-codeofconduct-dev-112149-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplify-codeofconduct-dev-112149-deployment",
+            "UnauthRoleName": "amplify-codeofconduct-dev-112149-unauthRole",
+            "StackName": "amplify-codeofconduct-dev-112149",
+            "StackId": "arn:aws:cloudformation:eu-west-1:015793386045:stack/amplify-codeofconduct-dev-112149/2f9ba9c0-dee1-11ea-8005-063c7fe5269c",
+            "AmplifyAppId": "dod49j94tkic6"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "dod49j94tkic6",
+                    "type": "cicd"
+                }
+            }
+        }
+    }
+}
