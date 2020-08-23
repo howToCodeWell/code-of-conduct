@@ -19,7 +19,7 @@ If any issue arises please feel free to contact our moderators.
 ## Examples of unacceptable behavior
 - Trolling, insulting and derogatory comments
 - Public and private harassment including racist, sexist or homophobic behavior
-- Publishing others private information
+- Publishing other's private information
 - Patronizing and harmful language
 - Overuse of self promotion without other community input  
 - Unwelcoming actions and comments towards beginner developers
